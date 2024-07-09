@@ -1,0 +1,10 @@
+.Movie {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    padding:5px
+}
+button
+{
+ margin: 5px;
+}
